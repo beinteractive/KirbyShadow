@@ -1,0 +1,6 @@
+[submodule "Assets/Shader Graph Extensions"]
+	path = Assets/Shader Graph Extensions
+	url = git@github.com:beinteractive/ShaderGraphExtensions.git
+[submodule "Assets/Shader Sub Graph Library"]
+	path = Assets/Shader Sub Graph Library
+	url = git@github.com:beinteractive/ShaderSubGraphLibrary.git

@@ -1,0 +1,7 @@
+{
+  "registry": "https://staging-packages.unity.com",
+  "dependencies": {
+    "com.unity.render-pipelines.lightweight": "1.1.1-preview",
+    "com.unity.shadergraph": "1.1.2-preview"
+  }
+}
